@@ -29,5 +29,4 @@ Designed for educational and internship purposes, this project demonstrates **sy
 git clone https://github.com/your-username/image-encryption-tool.git
 cd image-encryption-tool
 
-## Author
-**Prathamesh Pawar**  
+
